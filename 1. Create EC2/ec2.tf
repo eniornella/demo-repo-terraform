@@ -12,6 +12,5 @@ resource "aws_instance" "test" {
 # Below is the provider which helps in connecting with AWS Account
 # provider "aws" {
 #   region = "us-east-1"
-#   access_key = "AKIARZLWNF4Z2A5L5KCI"
-#   secret_key = "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"
+#   access_key = 
 # }
