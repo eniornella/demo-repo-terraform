@@ -1,9 +1,8 @@
 
 provider "aws" {
   region     = "us-east-1"
-  access_key = "AKIARZLWNF4Z2A5L5KCI"
-  secret_key = "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"
-}
+  access_key = 
+  secret acess key =
 
 
 resource "aws_s3_bucket" "invoice-bucket" {
